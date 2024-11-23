@@ -1,0 +1,13 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Product product = ViewBag.product as Product;
+}
+
+
+<h1>@ViewBag.zaman</h1>
+<h1>@ViewBag.callback</h1>
+
+
+<h3>@product.Id @product.Name @product.Price</h3>
