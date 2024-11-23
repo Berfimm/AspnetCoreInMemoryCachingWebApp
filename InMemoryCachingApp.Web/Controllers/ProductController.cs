@@ -41,18 +41,6 @@ namespace InMemoryCachingApp.Web.Controllers
             Product p = new Product { Id = 1, Name = "Kalem", Price = 200 };
 
             _memoryCache.Set<Product>("product1", p);
-
-
-
-
-
-
-
-
-
-
-
-
             return View();
         }
         public IActionResult Show()
