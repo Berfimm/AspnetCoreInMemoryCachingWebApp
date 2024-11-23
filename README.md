@@ -1,2 +1,2 @@
 # AspnetCoreInMemoryCachingWebApp
-Basics Of In Memory Caching on ASp .Net Core Mvc - based Fatih Çakıroğlu Udemy Course
+Basics Of In Memory Caching on Asp .Net Core Mvc - based on Fatih Çakıroğlu Udemy Course
